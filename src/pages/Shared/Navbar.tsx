@@ -7,31 +7,28 @@ function Navbar() {
     <>
       <Link
         to="/"
-        className={`px-3 hover:text-black rounded hover:duration-1000 ${
-          location.pathname === "/"
-            ? "active-link font-bold bg-opacity-80 text-black"
-            : ""
-        }`}
+        className={`px-3 hover:text-black rounded hover:duration-1000 ${location.pathname === "/"
+          ? "active-link font-bold bg-opacity-80 text-black"
+          : ""
+          }`}
       >
         Home
       </Link>
       <Link
         to="/aboutus"
-        className={`px-3  hover:text-black rounded hover:duration-1000 ${
-          location.pathname === "/aboutus"
-            ? "active-link font-bold bg-opacity-80 text-black"
-            : ""
-        }`}
+        className={`px-3  hover:text-black rounded hover:duration-1000 ${location.pathname === "/aboutus"
+          ? "active-link font-bold bg-opacity-80 text-black"
+          : ""
+          }`}
       >
         About Us
       </Link>
       <Link
         to="/contact"
-        className={`px-3  hover:text-black rounded hover:duration-1000 ${
-          location.pathname === "/contact"
-            ? "active-link font-bold bg-opacity-80 text-black"
-            : ""
-        }`}
+        className={`px-3  hover:text-black rounded hover:duration-1000 ${location.pathname === "/contact"
+          ? "active-link font-bold bg-opacity-80 text-black"
+          : ""
+          }`}
       >
         Contact
       </Link>
@@ -39,7 +36,7 @@ function Navbar() {
   );
   return (
     <>
-      <div className="navbar bg-base-100 shadow-md">
+      <div className="navbar bg-[#FE892C] bg-opacity-60 shadow-md">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

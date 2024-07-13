@@ -49,7 +49,7 @@ function HeroSection() {
                   <div className="absolute mt-56 md:gap-5 gap-3 inset-0 flex flex-col items-center uppercase justify-center text-white">
                     <p className="md:text-4xl text-xl">{slider?.subTitle}</p>
                     <h1 className="md:text-7xl text-3xl">{slider?.Title}</h1>
-                    <Button className="uppercase md:w-32 bg-green-500">Shop Now</Button>
+                    <Button className="uppercase md:w-32 text-black hover:bg-[#FE892C] bg-[#ffffff]">Shop Now</Button>
                   </div>
                 </CardContent>
               </Card>
