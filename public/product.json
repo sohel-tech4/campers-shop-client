@@ -1,0 +1,47 @@
+[
+  {
+    "productName": "Camping Tent",
+    "price": 120.0,
+    "stockQuantity": 30,
+    "description": "Four-person waterproof camping tent with easy setup.",
+    "category": "Camping Gear",
+    "ratings": 4.6,
+    "images": ["https://ibb.co/8cpZ2RX", "https://ibb.co/YWDMfCn"]
+  },
+  {
+    "productName": "Sleeping Bag",
+    "price": 45.99,
+    "stockQuantity": 50,
+    "description": "Warm and comfortable sleeping bag suitable for all seasons.",
+    "category": "Camping Gear",
+    "ratings": 4.8,
+    "images": ["https://ibb.co/YB7MXWs", "https://ibb.co/7VjQfLf"]
+  },
+  {
+    "productName": "Camping Stove",
+    "price": 35.5,
+    "stockQuantity": 100,
+    "description": "Portable camping stove with adjustable flame control.",
+    "category": "Camping Gear",
+    "ratings": 4.5,
+    "images": ["https://ibb.co/8cpZ2RX", "https://ibb.co/YWDMfCn"]
+  },
+  {
+    "productName": "Hiking Backpack",
+    "price": 80.0,
+    "stockQuantity": 40,
+    "description": "Durable hiking backpack with multiple compartments and water resistance.",
+    "category": "Camping Gear",
+    "ratings": 4.7,
+    "images": ["https://ibb.co/YB7MXWs", "https://ibb.co/7VjQfLf"]
+  },
+  {
+    "productName": "Camping Chair",
+    "price": 25.99,
+    "stockQuantity": 75,
+    "description": "Foldable camping chair with cup holder and carrying bag.",
+    "category": "Camping Gear",
+    "ratings": 4.4,
+    "images": ["https://ibb.co/8cpZ2RX", "https://ibb.co/YWDMfCn"]
+  }
+]
