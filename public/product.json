@@ -6,7 +6,7 @@
     "description": "Four-person waterproof camping tent with easy setup.",
     "category": "Camping Gear",
     "ratings": 4.6,
-    "images": ["https://ibb.co/8cpZ2RX", "https://ibb.co/YWDMfCn"]
+    "images": "https://ibb.co/8cpZ2RX"
   },
   {
     "productName": "Sleeping Bag",
@@ -15,7 +15,7 @@
     "description": "Warm and comfortable sleeping bag suitable for all seasons.",
     "category": "Camping Gear",
     "ratings": 4.8,
-    "images": ["https://ibb.co/YB7MXWs", "https://ibb.co/7VjQfLf"]
+    "images": "https://ibb.co/YB7MXWs"
   },
   {
     "productName": "Camping Stove",
@@ -24,7 +24,7 @@
     "description": "Portable camping stove with adjustable flame control.",
     "category": "Camping Gear",
     "ratings": 4.5,
-    "images": ["https://ibb.co/8cpZ2RX", "https://ibb.co/YWDMfCn"]
+    "images": "https://ibb.co/8cpZ2RX"
   },
   {
     "productName": "Hiking Backpack",
@@ -33,7 +33,7 @@
     "description": "Durable hiking backpack with multiple compartments and water resistance.",
     "category": "Camping Gear",
     "ratings": 4.7,
-    "images": ["https://ibb.co/YB7MXWs", "https://ibb.co/7VjQfLf"]
+    "images": "https://ibb.co/YB7MXWs"
   },
   {
     "productName": "Camping Chair",
@@ -42,6 +42,6 @@
     "description": "Foldable camping chair with cup holder and carrying bag.",
     "category": "Camping Gear",
     "ratings": 4.4,
-    "images": ["https://ibb.co/8cpZ2RX", "https://ibb.co/YWDMfCn"]
+    "images": "https://ibb.co/8cpZ2RX"
   }
 ]
